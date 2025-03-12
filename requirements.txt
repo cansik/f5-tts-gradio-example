@@ -1,0 +1,2 @@
+gradio~=5.20.1
+git+https://github.com/cansik/f5-tts-mlx.git@local-model-support
